@@ -1,0 +1,56 @@
+body {
+    padding-left: 24px;
+    padding-right: 24px;    
+}
+header {
+    background-color: rgb(0, 40, 116);
+    color: white;
+    padding-left: 24px;
+    padding-right: 24px;
+           
+}
+
+
+main {
+    padding-left: 24px;
+    padding-right: 24px; 
+}
+
+u {
+    color: blue;
+    
+}
+h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600; 
+
+}
+tr {
+    text-align: center;
+}
+
+
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: blue;
+    color: white;
+}
+
+section {
+    background-color: rgb(238, 235, 235);
+}
+
+.paragraph-h2 {
+    text-align: center;
+}
+
+.paragraph-section {
+    background-color: white;
+}
+footer {
+    background-color:  rgb(3, 3, 112);
+    color: white;
+}
